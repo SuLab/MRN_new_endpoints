@@ -4,6 +4,9 @@ This repository performs some abstraction for the MechRepoNet pipeline
 enableing fast building of models for metapath-based prediction of
 the relatedness of any two metanodes.
 
+JSON files in the `0_data/manual` directory may need to be edited to provide the proper
+paths for the data used from the MechRepoNet pipeline
+
 ## Organization
 
 This repository is organized as follows.
