@@ -1,0 +1,10 @@
+{
+  "nw_dir": "/opt/mmayers/projects/metapaths/2_pipeline/12d_Preprocessing-Abbreviations_and_Biolink/out/",
+  "biolink": true,
+  "model_dir": "/opt/mmayers/projects/metapaths/2_pipeline/15_Final_Model_Training/out/",
+  "hyperp_dir": "/opt/mmayers/projects/metapaths/2_pipeline/13c_Model_Prep_Hyperparam_tuning/out/",
+  "target_edge": "treats_CtD",
+  "target_node": "Disease",
+  "semantic_info_file": "/opt/mmayers/projects/metapaths/0_data/manual/edge_semtypes.csv",
+  "path_stats_dir": "/opt/mmayers/projects/metapaths/2_pipeline/Drug_Disease_Stats/out/"
+}

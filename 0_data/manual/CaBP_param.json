@@ -1,0 +1,10 @@
+{
+  "nw_dir": "/opt/mmayers/projects/metapaths/2_pipeline/12d_Preprocessing-Abbreviations_and_Biolink/out",
+  "biolink": true,
+  "model_dir": "/opt/mmayers/projects/MRN_new_endpoints/2_pipeline/Train_Model_C_act_BP/out",
+  "hyperp_dir": "/opt/mmayers/projects/MRN_new_endpoints/2_pipeline/Tune_Hyperparam_C_act_BP/out",
+  "target_edge": "activates_CaBP",
+  "target_node": "BiologicalProcessOrActivity",
+  "semantic_info_file": "/opt/mmayers/projects/metapaths/0_data/manual/edge_semtypes.csv",
+  "path_stats_dir": "/opt/mmayers/projects/metapaths/2_pipeline/Drug_BioProcess_Stats/out"
+}
