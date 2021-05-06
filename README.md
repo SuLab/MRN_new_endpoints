@@ -29,4 +29,7 @@ This repo uses essentially the same environment as [MechRepoNet](https://github.
 Please use the [requirements.txt](https://github.com/SuLab/MechRepoNet/blob/main/requirements.txt) from that
 repository.
 
+## Local Location
+
+This repo and all associated files are avaliable locally at `/gpfs/group/su/mike/MRN_new_endpoints`
 
